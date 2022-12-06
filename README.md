@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Lomanets.github.io/rsschool-cv/cv
