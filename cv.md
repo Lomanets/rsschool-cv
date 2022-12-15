@@ -2,11 +2,13 @@
 # *Lomanets Dmitriy Nikolayevich*
 
 
+### Kaliningrad, Russia
+### Number: +7 (960) 003-60-79 
+### Email: dimalomanec@gmail.com
+### Discord: Dmitrii (@Lomanets)
+### Github: Lomanets
 
-### number: +7 (960) 003-60-79 
-### email: dimalomanec@gmail.com
-### discord: Dmitrii (@Lomanets)
-
+### Summary
 My name is Dmitry, I have been interested in web development and programming for 4 years. Goal for this year: become a full stack developer. 
 I have been teaching algorithms, web programming and game development to children for 2 years. The main rule in life is to learn new things every day.
 
