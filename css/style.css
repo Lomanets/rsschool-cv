@@ -21,19 +21,22 @@ body {
     font-size: 24px;
     font-weight: 600;
     color: #5ebccf;
+    line-height: 23px;
 }
 
 .section-text {
     font-size: 16px;
     font-weight: 400;
-    color: rgb(52, 52, 52);
+    color: #343434;
+    line-height: 23px;
 }
 
 .section-list {
     list-style-type: square;
     font-size: 16px;
     font-weight: 400;
-    color: rgb(52, 52, 52);
+    color: #343434;
+    line-height: 23px;
 }
 
 .header {
@@ -86,9 +89,52 @@ body {
 
 .offer-image img {
     width: 75%;
+    box-shadow: 15px 15px 0 #d6f8ff;
 }
 
 .offer-contant {
     flex: 2 1 auto;
 }
 
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: #0f859c;
+    margin: 0;
+}
+
+.offer-line {
+    width: 70%;
+    height: 3px;
+    background-color: #5ebccf;
+    border: none;
+}
+
+.offer-contant__text {
+    width: 50%;
+    background-color: #5ebccf;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    margin: 20px auto 0px auto;
+    padding: 10px 0px;
+}
+
+main a {
+    font-size: 16px;
+    font-weight: 400;
+    color: #5ebccf;
+    line-height: 23px;
+    text-decoration: none;
+}
+
+main a:hover {
+    text-shadow: 0px 0px 15px #5ebccf;
+    color: #0f859c;
+}
+
+section {
+    margin: 50px 0px;
+}
